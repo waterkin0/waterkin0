@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![waterkin0's GitHub stats](https://github-readme-stats.vercel.app/api?username=waterkin0&show_icons=true&theme=apprentice)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=waterkin0&show_icons=true&theme=apprentice">
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ckend&layout=compact">
