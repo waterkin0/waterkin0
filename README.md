@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<p height="500px">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=waterkin0&show_icons=true&theme=apprentice" height="100%">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waterkin0&layout=compact&hide=javascript,html,css" height="100%">
-</p>
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=waterkin0&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true"/>
+</span>
+| 
+<span>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waterkin0&layout=compact&theme=buefy&hide_border=true&hide=html,css" />
+</span>
