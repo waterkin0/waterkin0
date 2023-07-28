@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<table><tr>
-  <td><img align="left" src="https://github-readme-stats.vercel.app/api?username=waterkin0&show_icons=true&theme=apprentice" border=0></td>
-  <td><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waterkin0&layout=compact" border=0></td>
-</table></tr>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=waterkin0&show_icons=true&theme=apprentice">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waterkin0&layout=compact">
+</p>
