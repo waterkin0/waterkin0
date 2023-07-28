@@ -15,13 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=waterkin0&show_icons=true&theme=apprentice">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waterkin0&layout=compact">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+<div height="50px">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=waterkin0&show_icons=true&theme=apprentice" height="100%">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=waterkin0&layout=compact" height="100%">
+</div>
